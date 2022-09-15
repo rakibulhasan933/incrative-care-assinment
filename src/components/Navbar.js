@@ -54,7 +54,7 @@ const Navbar = () => {
 						<li><a href='/' className="items-center text-white btn w-15">LOGIN</a></li>
 					</ul>
 				</div>
-				<a href='/' className="text-xl normal-case btn btn-ghost">Ineractive Care</a>
+				<a href='/' className="text-xl uppercase btn btn-ghost">Interactive Cares</a>
 			</div>
 			<div className="hidden navbar-center lg:flex">
 				<ul className="p-0 menu menu-horizontal">
