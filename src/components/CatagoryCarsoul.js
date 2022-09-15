@@ -2,10 +2,10 @@ import React from 'react';
 
 const CatagoryCarsoul = () => {
 	return (
-		<div className="py-10 m-20 bg-cyan-100">
-			<div className="py-10">
+		<div className="py-10 bg-cyan-100">
+			<div className="py-10 m-20">
 				<div>
-					<h2 className='py-8 text-2xl text-center'>Select Your Favourite Category & Start Learning</h2>
+					<h2 className='py-8 text-2xl font-semibold text-center'>Select Your Favourite Category & Start Learning</h2>
 				</div>
 				<div className="w-full px-10 carousel">
 
